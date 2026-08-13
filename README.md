@@ -1,2 +1,1 @@
-# anomaly_detection_census
-This project applies the Isolation Forest algorithm to detect socio-economic extremes for census tracts across the U.S.
+[anomaly_detection.ipynb](): This notebook illustrates how I use the Isolation Forest algorithm
